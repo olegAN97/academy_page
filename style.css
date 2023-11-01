@@ -1,0 +1,179 @@
+body{
+
+    height: 902px;
+    width: 1440px;
+    
+   
+}
+.contact_blok{
+    width: 512px;
+    height: 212px;
+    top: 50px;
+    margin-left: 165px;
+    position:absolute;
+
+   
+}
+.contact{
+    width: 94px;
+    height: 24px;
+    font-size: 18px;
+    margin: 0px;
+    padding: 0px;
+    color: #8643DC;
+    font-family:Red Hat Display, 'Source Sans Pro';
+    ;
+}
+.rectangle {
+	width: 50px;
+	height: 2px;
+    margin: 0px;
+    padding: 0px;
+    top:54px;
+	background: #8643DC;  
+}
+.text{
+    width: 512px;
+	height: 156px;
+    margin: 0px;
+    padding: 0px;
+    top: 106px;
+    font-size: 36px; 
+    font-family:Roboto, 'Source Sans Pro';;
+    color: black;
+}
+.infomail{
+    width: 223px;
+	height: 28px;
+    margin: 0px;
+    padding: 0px;
+    top: 104px;
+    margin-left: 1052px;  
+    position:absolute; 
+    font-size: 24px; 
+    color: #8643DC;
+    font-family:Red Hat Display, 'Source Sans Pro';
+}
+.form_info{
+    width: 1110px;
+	height: 282px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 165px; 
+    top: 312px;
+    position: absolute;
+    border:none;
+}
+.name{
+    width: 1110px;
+    height: 44px;
+    top: 312px;
+    left: 165px;
+    font-size: 20px; 
+    color:  #A8A0B0;
+    font-family:Red Hat Display, 'Source Sans Pro';
+    border:none;
+}
+.email{
+    width: 1110px;
+    height: 44px;
+    top: 401px;
+    left: 165px;
+    font-size: 20px; 
+    color:  #A8A0B0;
+    font-family:Red Hat Display, 'Source Sans Pro';
+    border:none;
+}
+.about{
+    width: 1110px;
+height: 44px;
+top: 490px;
+left: 165px;
+font-size: 20px; 
+color:  #A8A0B0;
+font-family:Red Hat Display, 'Source Sans Pro';
+border:none;
+}
+.button{
+    width: 200px;
+height: 60px;
+top: 564px;
+left: 165px;
+border-radius: 100px;
+background-color: #8643DC;
+border:none;
+font-family: Red Hat Display, 'Source Sans Pro';
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+color: #ffffff;
+
+
+
+}
+.rectangle1 {
+    width: 1110px;
+    height: 1px;
+    top: 355px;
+    left: 165px;
+    margin: 0px;
+    padding: 0px;
+  	background:  #DAD2E3;
+}
+.rectangle2 {
+    width: 1110px;
+    height: 1px;
+    top: 444px;
+    left: 165px;
+    margin: 0px;
+    padding: 0px;
+  	background:  #DAD2E3;
+}
+.rectangle3 {
+    width: 1110px;
+    height: 1px;
+    top: 533px;
+    left: 165px;
+    margin: 0px;
+    padding: 0px;
+  	background:  #DAD2E3;
+}
+
+.add{
+width: 18px;
+height: 18px;
+top: 520px;
+margin-left: 1030px;
+padding: 0px, 1.38px, 0.07px, 0.07px;
+position: fixed;
+}
+.go{
+    width: 30px;
+    height: 30px;
+    top: 512px;
+    margin-left: 1070px;
+    padding: 0px, 1.38px, 0.07px, 0.07px;
+    position: fixed;
+    }
+.lets{
+    width: 258px;
+height: 48px;
+top: 754px;
+margin-left: 431px;
+font-family: Red Hat Display, 'Source Sans Pro';
+font-size: 36px;
+font-weight: 500;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+color: #21232D;
+}
+.logoimg{
+    width: 230px;
+height: 695.84px;
+top: 156.16px;
+margin-left: 450px;
+
+}
